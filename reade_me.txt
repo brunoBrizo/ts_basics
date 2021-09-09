@@ -1,0 +1,7 @@
+- npm init -y
+- npm i --save express dotenv
+- npm i --save-dev typescript
+- npm i --save @types/express
+- npm i --save-dev ts-node-dev
+- tsc --init
+- npm i --save cors
